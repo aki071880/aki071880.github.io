@@ -11,3 +11,6 @@ header{
     text-align: center;
     line-height: 500px;
 }
+ul{
+  list-style: none;
+}
