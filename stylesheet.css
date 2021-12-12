@@ -2,3 +2,9 @@
   box-sizing: border-box;
 }
 
+header{
+    background-image: url(https://github.com/aki071880/aki071880.github.io/blob/main/%E6%B8%A9%E6%B3%89.jpeg?raw=true);
+    background-size: cover;
+    color: rgb(160, 150, 138);
+    
+}
