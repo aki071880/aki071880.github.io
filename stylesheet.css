@@ -7,4 +7,6 @@ header{
     background-size: cover;
     color: rgb(160, 150, 138);
     text-align: center;
+    height: 500px;
+    width: 100%;
 }
