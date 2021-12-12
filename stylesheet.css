@@ -16,7 +16,7 @@ ul{
 }
 .main{
   height: 400px;
-  background-color: bisque;
+  background-color: rgb(250, 243, 235);
   padding-top: 30px;
 }
 h3{
@@ -30,7 +30,7 @@ h3{
 }
 .contents{
   height: 400px;
-  background-color: darkgrey;
+  background-color: rgb(204, 204, 204);
   padding-top: 30px;
 }
 .contents li{
