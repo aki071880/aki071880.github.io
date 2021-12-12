@@ -1,7 +1,6 @@
 * {
-  box-sizing: border-box;
-}
-
+    box-sizing: border-box;
+  }
 header{
     background-image: url(https://github.com/aki071880/aki071880.github.io/blob/main/%E6%B8%A9%E6%B3%89.jpeg?raw=true);
     background-size: cover;
@@ -9,4 +8,5 @@ header{
     text-align: center;
     height: 500px;
     width: 100%;
+    font-family: serif;
 }
