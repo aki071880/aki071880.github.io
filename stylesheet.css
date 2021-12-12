@@ -14,3 +14,13 @@ header{
 ul{
   list-style: none;
 }
+.main{
+  padding: 0 40px 0 40px;
+  height: 400px;
+  background-color: bisque;
+}
+.contents{
+  padding :0 40px 0 40px;
+  height: 400px;
+  background-color: darkgrey;
+}
