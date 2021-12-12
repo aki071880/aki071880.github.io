@@ -9,7 +9,7 @@ header{
     width: 100%;
     font-family: serif;
     text-align: center;
-    line-height: 500px;
+    padding-top: 200px;
 }
 ul{
   list-style: none;
