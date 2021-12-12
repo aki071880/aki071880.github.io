@@ -15,12 +15,22 @@ ul{
   list-style: none;
 }
 .main{
-  padding: 0 40px 0 40px;
   height: 400px;
   background-color: bisque;
 }
+h3{
+  padding: 0 40px 0 40px;
+}
+.plan1{
+  padding: 0 40px 0 40px;
+}
+.plan2{
+  padding: 0 40px 0 40px;
+}
 .contents{
-  padding :0 40px 0 40px;
   height: 400px;
   background-color: darkgrey;
+}
+.contents li{
+  padding: 0 40px 0 40px;
 }
