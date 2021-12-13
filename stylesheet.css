@@ -20,6 +20,7 @@ ul{
 }
 .main-sub{
   display: flex;
+  padding-left: 50px;
 }
 .plan{
   padding-left: 40px;
