@@ -36,8 +36,11 @@ h3{
 .contents li{
   padding: 0 40px 0 40px;
 }
-img{
+.dish img{
   width:320px;
-  padding-left: 800px;
+  padding-left: 600px;
   height: 180px;
+}
+.dya{
+  padding-left: 600px;
 }
