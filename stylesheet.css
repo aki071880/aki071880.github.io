@@ -19,6 +19,9 @@ ul{
   padding-top: 30px;
   display:flex
 }
+.main-sub{
+  width: 33%;
+}
 h3{
   margin: 0 40px 3px 40px;
   border-bottom: 1px solid rgb(0, 0, 0);
@@ -37,11 +40,11 @@ h3{
   padding: 0 40px 0 40px;
 }
 .dish img{
-  width:320px;
+  width:33%;
   padding-left: 500px;
   height: 180px;
 }
 .dya img{
   padding-left: 500px;
-  width: 320px;
+  width: 33%;
 }
