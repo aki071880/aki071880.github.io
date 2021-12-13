@@ -38,9 +38,10 @@ h3{
 }
 .dish img{
   width:320px;
-  padding-left: 600px;
+  padding-left: 500px;
   height: 180px;
 }
-.dya{
-  padding-left: 600px;
+.dya img{
+  padding-left: 500px;
+  width: 320px;
 }
