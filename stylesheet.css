@@ -39,12 +39,13 @@ h3{
 .contents li{
   padding: 0 40px 0 40px;
 }
-.dish img{
-  width:300px;
+.dish{
+  width:20%;
   padding-left: 30px;
-  height: 180px;
+  display: block;
 }
-.dya img{
+.dya{
   padding-left: 30px;
-  width: 400px;
+  width: 30%;
+  display: block;
 }
