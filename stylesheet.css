@@ -21,6 +21,15 @@ ul{
 .main-sub{
   display: flex;
 }
+.plan{
+  padding-left: 40px;
+}
+.hotel{
+  padding-left: 40px;
+}
+.coupon{
+  padding-left: 40px;
+}
 h3{
   margin: 0 40px 3px 40px;
   border-bottom: 1px solid rgb(0, 0, 0);
