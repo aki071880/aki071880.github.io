@@ -20,7 +20,7 @@ ul{
   display:flex
 }
 .main-sub{
-  width: 33%;
+  width: 40%;
 }
 h3{
   margin: 0 40px 3px 40px;
@@ -40,11 +40,11 @@ h3{
   padding: 0 40px 0 40px;
 }
 .dish img{
-  width:33%;
-  padding-left: 500px;
+  width:20%;
+  padding-left: 30px;
   height: 180px;
 }
 .dya img{
-  padding-left: 500px;
-  width: 33%;
+  padding-left: 30px;
+  width: 20%;
 }
