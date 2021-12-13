@@ -23,12 +23,15 @@ ul{
 }
 .plan{
   padding-left: 40px;
+  width: 30%;
 }
 .hotel{
   padding-left: 40px;
+  width: 30%;
 }
 .coupon{
   padding-left: 40px;
+  width: 30%;
 }
 h3{
   margin: 0 20px 3px 0;
