@@ -17,10 +17,9 @@ ul{
 .main{
   background-color: rgb(250, 243, 235);
   padding-top: 30px;
-  display:flex
 }
 .main-sub{
-  width: 40%;
+  display: flex;
 }
 h3{
   margin: 0 40px 3px 40px;
@@ -31,21 +30,4 @@ h3{
 }
 .plan2{
   padding: 0 40px 0 40px;
-}
-.contents{
-  height: 400px;
-  padding-top: 30px;
-}
-.contents li{
-  padding: 0 40px 0 40px;
-}
-.dish{
-  width:20%;
-  padding-left: 30px;
-  display: block;
-}
-.dya{
-  padding-left: 30px;
-  width: 30%;
-  display: block;
 }
