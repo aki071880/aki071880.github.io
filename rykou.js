@@ -9,4 +9,5 @@ $(function(){
             $plan.slideDown();
         };
     });
+    $('.plan').slideUp(slow);
 });
