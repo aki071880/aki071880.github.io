@@ -62,6 +62,8 @@ h3{
   display:none;
 }
 .btn{
-  cursor: pointer;
   display: block;
+}
+.btn : hover{
+  cursor:pointer;
 }
