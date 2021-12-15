@@ -63,4 +63,5 @@ h3{
 }
 .btn{
   cursor: pointer;
+  display: block;
 }
