@@ -7,6 +7,6 @@ $(function(){
         }else{
             $plan.addClass('open');
             $plan.slideDown();
-        }
-    })
-})
+        };
+    });
+});
