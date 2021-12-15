@@ -44,12 +44,15 @@ h3{
   margin: 0 20px 3px 0;
   border-bottom: 1px solid rgb(0, 0, 0);
 }
-.plan1{
+.btn{
   padding: 0 20px 0 0;
+  display: block;
+  background-color: azure;
 }
-.plan2{
-  padding: 0 20px 0 0;
+.btn:hover{
+  cursor:pointer;
 }
+
 .img{
   display: flex;
   text-align: center;
@@ -60,10 +63,4 @@ h3{
 }
 .plan-contents{
   display:none;
-}
-.btn{
-  display: block;
-}
-.btn : hover{
-  cursor:pointer;
 }
