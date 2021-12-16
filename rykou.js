@@ -1,13 +1,13 @@
 $(function(){
-    $('.btn').click(function(){
-        var $plan = $(this).find('.plan-contents')
-        if($plan.hasClass('open')){
-            $plan.removeClass('open');
-            $plan.slideUp();
-        }else{
-            $plan.addClass('open');
-            $plan.slideDown();
-        };
+    $('.btn').click(function() {
+        $(this).toggleClass('active');
+
+        if ($(this).hasClass('active')) {
+            $('.plan-contents').addClass('active');
+            $(this).find('p').slideDown();
+        } else {
+            $('.plan-contents').removeClass('active');
+            $(this).find('p').slideUp();
+        }
     });
-    $('.plan').slideUp(slow);
 });
