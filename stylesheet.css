@@ -9,7 +9,9 @@ header{
     width: 100%;
     font-family: serif;
     text-align: center;
-    padding-top: 170px;
+}
+.theme{
+  padding-top: 125px;
 }
 ul{
   list-style: none;
@@ -17,6 +19,7 @@ ul{
 .main{
   background-color: rgb(250, 243, 235);
   padding-top: 30px;
+  height:3000px;
 }
 .main-sub{
   display: flex;
@@ -43,21 +46,19 @@ ul{
 h3{
   margin: 0 20px 3px 0;
   border-bottom: 1px solid rgb(0, 0, 0);
+  opacity: 0.5;
 }
 .btn{
   padding: 0 20px 0 0;
-  display: block;
-  background-color: azure;
+  
 }
-.btn:hover{
+.btn h4{
+  display: block;
+  background-color: rgb(189, 187, 187);
+}
+.btn h4:hover{
   cursor:pointer;
 }
-
-.img{
-  display: flex;
-  text-align: center;
-}
-.dish{
-  width:400px;
-  text-align: center;
+.plan-contents p{
+  display:none;
 }
