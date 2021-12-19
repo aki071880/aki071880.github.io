@@ -66,6 +66,7 @@ h3{
 }
 .container {
   overflow: hidden;
+  padding-right: 150px;
  }
  
  .inner-block {
@@ -76,12 +77,12 @@ h3{
  
  
  .fade-img-box {
-  width: 500px;
-  height: 300px;
-  margin-left: auto;
+  width: 750px;
+  height: 450px;
+  margin: 0 auto;
   margin-top: 10px;
   position:relative;
-  border: 1px solod black;
+  border: 2px solod black;
  }
  
  .fade-img-box img {
@@ -92,3 +93,9 @@ h3{
   height: 100%;
   object-fit:cover;
  }
+
+ @media screen and (max-width: 480px){
+  .main{
+    flex-direction:column;
+  }
+ })
