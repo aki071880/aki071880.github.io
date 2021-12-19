@@ -98,4 +98,7 @@ h3{
   .main{
     flex-direction:column;
   }
+  .fade-img-box img{
+    width:100%;
+  }
  })
